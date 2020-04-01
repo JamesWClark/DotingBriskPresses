@@ -1,0 +1,10 @@
+.curve-border-box {
+    border: solid #eee 1px;
+    border-radius: 7px;
+    padding: 29px;
+}
+
+img {
+    max-width: 100%;
+    width: 100%;
+}
