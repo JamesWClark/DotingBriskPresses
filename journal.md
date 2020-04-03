@@ -14,3 +14,5 @@ Today I got about half as far as I wanted to. Tomorrow another rehearsal...
 ## April 3, 2020
 
 Today I plan to mimic as best I can IMDB
+
+Today I did achieve quite a bit with card decks and carousels

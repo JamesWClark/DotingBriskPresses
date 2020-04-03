@@ -1,0 +1,21 @@
+html, body {
+    background-color: #000;
+    color: #fff;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.whats-streaming {
+    padding: 4px 8px 4px 8px;
+}
